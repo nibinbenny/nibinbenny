@@ -123,7 +123,7 @@ for(var i = 0;i<(numberOfColumnsValue * 2);i++)
          let anchor = document.createElement('a');
          anchor.classList.add('sidebarelement');
          anchor.id='sidebarelement2';
-         anchor.setAttribute("href","https://www.linkedin.com/in/nibin-benny-60923a211/");
+         anchor.setAttribute("href","https://twitter.com/Nibinbenny17");
          anchor.setAttribute("target","_blank");
          let fonticon = document.createElement('i');
          fonticon.classList.add("fab");
@@ -205,7 +205,7 @@ for(var i = 0;i<(numberOfColumnsValue * 2);i++)
          let anchor = document.createElement('a');
          anchor.classList.add('sidebarelement');
          anchor.id='sidebarelement6';
-         anchor.setAttribute("href","https://www.linkedin.com/in/donal-shijan-bab44015a");
+         anchor.setAttribute("href","https://www.linkedin.com/in/nibin-benny-60923a211/");
          anchor.setAttribute("target","_blank");
          let fonticon = document.createElement('i');
          fonticon.classList.add("fab");
