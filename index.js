@@ -123,7 +123,7 @@ for(var i = 0;i<(numberOfColumnsValue * 2);i++)
          let anchor = document.createElement('a');
          anchor.classList.add('sidebarelement');
          anchor.id='sidebarelement2';
-         anchor.setAttribute("href","https://twitter.com/donalshijan");
+         anchor.setAttribute("href","https://www.linkedin.com/in/nibin-benny-60923a211/");
          anchor.setAttribute("target","_blank");
          let fonticon = document.createElement('i');
          fonticon.classList.add("fab");
@@ -184,7 +184,7 @@ for(var i = 0;i<(numberOfColumnsValue * 2);i++)
          let anchor = document.createElement('a');
          anchor.classList.add('sidebarelement');
          anchor.id='sidebarelement5';
-         anchor.setAttribute("href","https://donalshijan.blogspot.com");
+         anchor.setAttribute("href","");
          anchor.setAttribute("target","_blank");
          let fonticon = document.createElement('i');
          fonticon.classList.add("fab");
@@ -224,7 +224,7 @@ for(var i = 0;i<(numberOfColumnsValue * 2);i++)
          let anchor = document.createElement('a');
          anchor.classList.add('sidebarelement');
          anchor.id='sidebarelement7';
-         anchor.setAttribute("href","https://www.patreon.com/donalshijan");
+         anchor.setAttribute("href","");
          anchor.setAttribute("target","_blank");
          let fonticon = document.createElement('i');
          fonticon.classList.add("fab");
