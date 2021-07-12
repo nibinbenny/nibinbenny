@@ -153,7 +153,7 @@ for(var i = 0;i<(numberOfColumnsValue * 2);i++)
          let anchor = document.createElement('a');
          anchor.classList.add('sidebarelement');
          anchor.id='sidebarelement4';
-         anchor.setAttribute("href","https://www.youtube.com/channel/UCCviKWMSJl869uTdnFALVqw?view_as=subscriber");
+         anchor.setAttribute("href","https://www.youtube.com/channel/UCH39RHRfr1bWUUmtqw9P1qQ");
          anchor.setAttribute("target","_blank");
          let fonticon = document.createElement('i');
          fonticon.classList.add("fab");
